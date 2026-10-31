@@ -41,5 +41,11 @@ My habit: build my own ground truth and test for significance before I trust any
 
 `Agentic AI` `Multi-agent systems` `MCP` `LLMs / LoRA` `RAG` `CUDA` `TensorRT` `ONNX` `XGBoost`
 
+## Activity
+<p>
+  <img src="metrics.languages.svg" />
+  <img src="metrics.calendar.svg" />
+</p>
+
 ## Find me
 [LinkedIn](https://linkedin.com/in/shubhamchitte) · [shubhamchitte11@gmail.com](mailto:shubhamchitte11@gmail.com)
